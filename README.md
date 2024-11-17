@@ -10,3 +10,8 @@ Welcome to the **Allstate1A-Studio-Project**! This project is part of the **Brea
 - **Fatima Asif**  
 - **Jenylee Diaz Munoz**  
 - **Samantha Nadler** 
+
+## Traing Models
+- **Random Forest Regressor**  
+- **XGBoost**  
+- **SGDRegressor**   
